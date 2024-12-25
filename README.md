@@ -19,8 +19,12 @@ The goal of this project is to predict the next sentence given a text input, lev
 🔹 Deployed the final solution using **Streamlit** for an interactive, user-friendly experience.  
 
 ## Deployment  
-The project has been deployed as a web application for interactive exploration of the results. You can test the model predictions live at:  
-[**20 News Group Sentence Generation App**](https://20-news-group-sentence-generation.streamlit.app/)  
+The project has been deployed as a web application for interactive exploration of the results.  
+🌐 **Try the live demo here**: [20 News Group Sentence Generation App](https://20-news-group-sentence-generation.streamlit.app/)  
+
+## Documentation  
+Comprehensive documentation detailing the workflow, methodology, and findings of the project can be accessed at:  
+📘 **Project Documentation**: [Fetch20 Newsgroups Text Generation](https://abienugraha.my.canva.site/fetch20-newsgroups-textgen)  
 
 ## Insights Gained  
 This project provided valuable insights into:  
@@ -39,5 +43,3 @@ Special thanks to the creators and maintainers of the **20 Newsgroups dataset** 
 ---  
 ### **Tags**  
 #DataScience #NLP #NextSentencePrediction #MachineLearning #GenerativeAI  
-
-Let me know if you’d like any further refinements or additional sections! 😊
