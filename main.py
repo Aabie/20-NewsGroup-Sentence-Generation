@@ -115,9 +115,9 @@ st.markdown("""
 
 
 # Load the model and tokenizer
-pretrained = r"E:\\Maknadata\\results\\checkpoint-10970"
+pretrained = r"checkpoint-gpt2"
 model = AutoModelForCausalLM.from_pretrained(pretrained)
-tokenizer = AutoTokenizer.from_pretrained('gpt2')
+tokenizer = AutoTokenizer.from_pretrained(pretrained)
 tokenizer.pad_token = tokenizer.eos_token
 
 # App header
